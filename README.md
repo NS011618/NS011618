@@ -17,7 +17,7 @@ I'm a recent graduate with a Bachelor of Engineering (BE) degree. My passion lie
 - **Frontend Development:** Tailwind CSS, HTML, CSS
 - **Mobile Development:** Android Development
 - **Databases & Cloud:** Firebase, MySQL, MongoDB
-- **Tools & Technologies:** Git, Docker, Kubernetes, Firebase
+- **Tools & Technologies:** Git, Firebase
 - **Other:** API Development, Version Control, Machine Learning, Data Analysis
 
 ---
