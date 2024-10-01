@@ -14,9 +14,9 @@ I'm a recent graduate with a Bachelor of Engineering (BE) degree. My passion lie
 
 - **Programming Languages:** Python, C, C++
 - **Backend Development:** Node.js, Express.js
-- **Frontend Development:** Tailwind CSS, HTML, CSS
+- **Frontend Development:** Tailwind CSS, HTML, CSS, JavaScript
 - **Mobile Development:** Android Development
-- **Databases & Cloud:** Firebase, MySQL, MongoDB
+- **Databases & Cloud:** Firebase, MySQL, MongoDB, Postgresql
 - **Tools & Technologies:** Git, Firebase
 - **Other:** API Development, Version Control, Machine Learning, Data Analysis
 
